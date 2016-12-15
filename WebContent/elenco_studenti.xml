@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<elenco>
+	<studente id="studente1">
+		<matricola id="matricola1">1</matricola>
+		<cognome>Rossi</cognome>
+		<nome>Mario</nome>
+	</studente>
+	<studente id="studente2">
+		<matricola id="matricola2">2</matricola>
+		<cognome>Verdi</cognome>
+		<nome>Luca</nome>
+	</studente>
+</elenco>
